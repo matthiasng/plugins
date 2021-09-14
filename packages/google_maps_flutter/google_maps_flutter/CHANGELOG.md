@@ -1,3 +1,8 @@
+
+## 2.0.9
+
+* Add GoogleMap.OnPoiClickListener
+
 ## 2.0.8
 
 * Mark iOS arm64 simulators as unsupported.

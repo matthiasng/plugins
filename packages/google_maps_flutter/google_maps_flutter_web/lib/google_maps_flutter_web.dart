@@ -38,3 +38,4 @@ part 'src/polylines.dart';
 part 'src/marker.dart';
 part 'src/markers.dart';
 part 'src/convert.dart';
+part 'src/point_of_interest.dart';
